@@ -17,7 +17,7 @@ I'm a 4th year Bsc Software Engineering student at Kirinyaga University, an Expl
      - Machine Learning Engineering. 
      - AWS Cloud Engineering.
      - General Software Engineering.
-- 📫 How to reach me: [Linkedin Profile]("https:/www/linkedin.com/in/devnjoro").
+- 📫 How to reach me: [Linkedin]("https:/www/linkedin.com/in/devnjoro").
 - 😄 Pronouns: Him/He.
 - ⚡ Fun fact: I'm addicted to learning new, challenging and amazing things.
 
