@@ -11,12 +11,9 @@ I'm a 4th year Bsc Software Engineering student at Kirinyaga University, an Expl
 - 👯 I’m looking to collaborate on more challenging and amazing projects.
 - 🤔 I’m looking for help with Machine Learning mentorship.
 - 💬 Ask me about the following tech-related topics:
-     - Data Engineering.
-     - Data Analytics.
-     - Data Science.
-     - Machine Learning Engineering. 
-     - AWS Cloud Engineering.
-     - General Software Engineering.
+     - Data Engineering.                  - Data Analytics.
+     - Data Science.                      - Machine Learning Engineering. 
+     - AWS Cloud Engineering.             - General Software Engineering.
 <!-- - 📫 How to reach me: [Linkedin]("https:/www/linkedin.com/in/devnjoro"). -->
 - 😄 Pronouns: Him/He.
 - ⚡ Fun fact: I'm addicted to learning new, challenging and amazing things.
