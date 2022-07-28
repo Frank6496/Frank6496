@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 I'm a 4th year Bsc Software Engineering student at Kirinyaga University, an Explore Data Science graduate and also a Google Roothub Scholarship hub beneficiary.
-- 🔭 I’m currently working on a Competitor Analysis Project on EDSA.
 - 🌱 I’m currently learning AWS Udacity Nanodegree Programme.
 - 👯 I’m looking to collaborate on more challenging and amazing projects.
 - 🤔 I’m looking for help with Machine Learning mentorship.
