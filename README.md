@@ -23,5 +23,5 @@ I'm a 4th year Bsc Software Engineering student at Kirinyaga University, an Expl
 - 😄 Pronouns: Him/He.
 - ⚡ Fun fact: I'm addicted to learning new, challenging and amazing things.
 
-![stats](https://github-readme-stats.vercel.app/api?Frank6496=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 
