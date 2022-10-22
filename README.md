@@ -1,8 +1,8 @@
 ## Franci's Island
 
-          <div id="header" align="center">
-                  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-          </div>
+   <div id="header" align="center">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   </div>
                                                        ### Hello there 👋
 
 **I'm a result-oriented and performance-based Software Developer, eager to contribute to a team's success through _hard work, attention to details, teawork_ and _problem solving skills_.**
