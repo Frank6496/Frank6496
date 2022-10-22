@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👨‍🦲_technologist: About Me :
+### About Me :
 
 **I'm a result-oriented and performance-based Software Developer, eager to contribute to a team's success through _hard work, attention to details, teawork_ and _problem solving skills_.**
 
