@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge$page_id=Frank6496505698466)
-
-
 ### Hello there 👋
 
 <!--
