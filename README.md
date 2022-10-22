@@ -53,10 +53,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Frank6496&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank6496&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
