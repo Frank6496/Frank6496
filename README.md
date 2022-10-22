@@ -52,7 +52,8 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 </div>
-**📫 How to reach me: [Linkedin]("https:/www/linkedin.com/in/devnjoro")**
+
+**📫 How to reach me: ![Linkedin]("https:/www/linkedin.com/in/devnjoro")**
 
 
 <!--START_SECTION:waka-->
