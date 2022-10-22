@@ -49,6 +49,11 @@
 </div>
 
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Frank6496&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 </div>
