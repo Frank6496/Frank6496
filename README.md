@@ -13,7 +13,7 @@
      </div>    
      <img src="https://komarev.com/ghpvc/?username=Frank6496&style=flat-square&color=blue" alt=""/>
      <h1>
-       hey there
+       Hey there
        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="80px"/>
      </h1>
 </div>
@@ -55,7 +55,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank6496&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts :
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
