@@ -50,7 +50,7 @@
 
 
 <div align="center">
-   ![stats](https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+   <img src="https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 </div>
 **📫 How to reach me: [Linkedin]("https:/www/linkedin.com/in/devnjoro")**
 
