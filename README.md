@@ -3,11 +3,10 @@
 ### Hello there 👋
 
 **I'm a result-oriented and performance-based Software Developer, eager to contribute to a team's success through _hard work, attention to details, teawork_ and _problem solving skills_.**
-
-**- I'm a 4th year Bsc Software Engineering student at Kirinyaga University**
-**- A Data Science and Machine Learning graduate from ExploreAI**
-**- An AWS certified Cloud Practitioner**
-**- An AWS Cloud Engineering Nanodegree from Udacity**
+          **- I'm a 4th year Bsc Software Engineering student at Kirinyaga University**
+          **- A Data Science and Machine Learning graduate from ExploreAI**
+          **- An AWS certified Cloud Practitioner**
+          **- An AWS Cloud Engineering Nanodegree from Udacity**
 
 
 - 😄 Pronouns: Him/He.
