@@ -38,6 +38,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
+   ### :hammer_and_wrench: Languages and Tools :
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -52,8 +54,6 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 </div>
-
-**📫 How to reach me: ![Linkedin]("https:/www/linkedin.com/in/devnjoro")**
 
 
 <!--START_SECTION:waka-->
