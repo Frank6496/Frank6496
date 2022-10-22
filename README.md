@@ -1,5 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge${Frank6496}.${505698466}=page.id)
-
+![visitors](https://visitor-badge.glitch.me/badge$page_id = ${Frank6496}.${505698466})
 
 ### Hello there 👋
 
