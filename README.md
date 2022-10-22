@@ -1,10 +1,9 @@
+## Franci's Island
+
 ### Hello there 👋
 
-<!--
-**Frank6496/Frank6496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a result-oriented and performance-based Software Developer, eager to contribute to a team's success through _hard work, attention to details, teawork_ and _problem solving skills_.**
 
-Here are some ideas to get you started:
--->
 I'm a 4th year Bsc Software Engineering student at Kirinyaga University, an Explore Data Science graduate and also a Google Roothub Scholarship hub beneficiary.
 - 🌱 I’m currently learning AWS Udacity Nanodegree Programme.
 - 👯 I’m looking to collaborate on more challenging and amazing projects.
