@@ -25,3 +25,6 @@ I'm a 4th year Bsc Software Engineering student at Kirinyaga University, an Expl
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Frank6496&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
