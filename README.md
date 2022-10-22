@@ -12,11 +12,12 @@
        </a>         
      </div>    
      <img src="https://komarev.com/ghpvc/?username=Frank6496&style=flat-square&color=blue" alt=""/>
+     <h1>
+       hey there
+       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     </h1>
 </div>
 
-
-
-### Hello there 👋
 
 **I'm a result-oriented and performance-based Software Developer, eager to contribute to a team's success through _hard work, attention to details, teawork_ and _problem solving skills_.**
 
